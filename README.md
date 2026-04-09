@@ -30,7 +30,7 @@ TodoV2, modern tasarımı ve güçlü özellikleriyle zamanınızı en verimli �
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/aenes-dev/google-task-event-manager.git](https://github.com/aenes-dev/google-task-event-manager.git)
+    git clone https://github.com/aenes-dev/google-task-event-manager.git
     cd google-task-event-manager
     ```
 
